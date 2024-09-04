@@ -2,7 +2,7 @@ Algoritmo Ifds
 var n1, n2, M;
 
 inicio
-ler n1, n2;
-M = (n1+n2)/2
+ler n1, n2, n3;
+M = (n1+n2+n3)/3
 exibir M
 fim
